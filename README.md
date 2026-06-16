@@ -1,10 +1,7 @@
-# OmniCreditChain - Protocolo Omnichain de Crédito Fintech
+OmniCreditChain - Omnichain Credit RWA Protocol with Pomelo Integration
 
-**Solución innovadora para LATAM: Crédito tokenizado como RWA + AI OmniScore + Integración Pomelo.**
+Full MVP for Vercel demo.
 
-## Demo en Vercel
-1. Importa este repo en vercel.com
-2. Root Directory: frontend
-3. Deploy!
+Frontend in /frontend
 
-¡Funcional con wallet connect y OmniScore AI!
+Deploy instructions in Vercel with root directory frontend.
