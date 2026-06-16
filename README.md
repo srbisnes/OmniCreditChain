@@ -1,2 +1,1 @@
-# OmniCreditChain
-Omnichain Tokenized Credit Protocol for Fintech with Pomelo Integration
+Full README here with all details
