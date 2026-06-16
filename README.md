@@ -1,7 +1,1 @@
-OmniCreditChain - Omnichain Credit RWA Protocol with Pomelo Integration
-
-Full MVP for Vercel demo.
-
-Frontend in /frontend
-
-Deploy instructions in Vercel with root directory frontend.
+Complete OmniCreditChain project with Next.js frontend in /frontend, Solidity contracts, AI mock OmniScore, Pomelo integration simulation. Full demo ready for Vercel deploy with root directory 'frontend'.
